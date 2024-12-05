@@ -1,0 +1,72 @@
+.design-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 50px;
+}
+
+.content {
+  max-width: 50%;
+}
+
+.content h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.content p {
+  font-size: 1.1rem;
+  margin-bottom: 20px;
+  color: #555;
+}
+
+.contact-info {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.phone-icon {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+
+.contact-info p {
+  margin: 0;
+}
+
+.cta-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.cta-button:hover {
+  background-color: #555;
+}
+
+.cta-button img.button-icon {
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+}
+
+.image {
+  max-width: 40%;
+}
+
+.image img {
+  border: top right radius 1500px
+  width: 100%;
+  border-radius: 20px;
+  object-fit: cover;
+  border-radius: 0 150px 0 150px;
+}
