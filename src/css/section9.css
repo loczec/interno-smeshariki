@@ -1,0 +1,72 @@
+section{
+    background-color:  #292F36;
+    width: 1200px;
+        height: 414px;
+        top: 7319px;
+        width: 1200px;
+            height: 414px;
+            border-radius: 70px 70px 70px 70px;
+            margin-left: 120px;
+}
+button{
+    background-color:  #CDA274;
+    padding: 0px 34px 0px 183px;
+    border-radius: 18px 18px 18px 18px;
+    border: 2px 2px 2px 2px;
+width: 241px;
+    height: 71px;
+        margin-left: 474px;
+        margin-top: 31px;
+        display: flex;
+        flex-direction: row;
+}
+
+span{
+    color: white;
+        font-family: "Jost", sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 27px;
+        letter-spacing: 0.22px;
+        text-align: center;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        white-space: pre;
+ 
+}
+.button_img{
+    
+width: 24px;
+    height: 17px;
+ 
+}
+h1{
+    color: white;
+    width: 534px;
+        height: 75px;
+        font-family: "Inter", sans-serif;
+            font-size: 50px;
+            font-weight: 400;
+            line-height: 75px;
+            letter-spacing: 0.22px;
+            text-align: center;
+            text-underline-position: from-font;
+            text-decoration-skip-ink: none;
+            margin-left: 333px;
+            padding-top: 100px;
+}
+p{
+    color: white;
+    width: 371px;
+        height: 33px;
+font-family: "Jost", sans-serif;
+            font-size: 22px;
+            font-weight: 400;
+            line-height: 33px;
+            letter-spacing: 0.22px;
+            text-align: center;
+            text-underline-position: from-font;
+            text-decoration-skip-ink: none;
+            margin-left: 415px;
+        margin-top: 79px;
+}
