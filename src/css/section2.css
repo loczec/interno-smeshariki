@@ -217,7 +217,7 @@ width: 24px;
             margin-left: 42px;
             
 }
-section {
+.sect2sect {
     display: flex;
     flex-direction: row;
     width: 1200px;

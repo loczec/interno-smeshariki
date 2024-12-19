@@ -1,4 +1,4 @@
-section{
+.sect9sect{
     background-color:  #292F36;
     width: 1200px;
         height: 414px;
@@ -8,7 +8,7 @@ section{
             border-radius: 70px 70px 70px 70px;
             margin-left: 120px;
 }
-button{
+.button_text{
     background-color:  #CDA274;
     padding: 0px 34px 0px 183px;
     border-radius: 18px 18px 18px 18px;
@@ -21,7 +21,7 @@ width: 241px;
         flex-direction: row;
 }
 
-span{
+.span9sect{
     color: white;
         font-family: "Jost", sans-serif;
         font-size: 18px;
@@ -40,7 +40,7 @@ width: 24px;
     height: 17px;
  
 }
-h1{
+.h1sect{
     color: white;
     width: 534px;
         height: 75px;
@@ -55,7 +55,7 @@ h1{
             margin-left: 333px;
             padding-top: 100px;
 }
-p{
+.psect9{
     color: white;
     width: 371px;
         height: 33px;
